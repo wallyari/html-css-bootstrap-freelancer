@@ -1,0 +1,42 @@
+body{
+    background-color: grey
+  }
+ 
+  .lime{
+    background-color: lime;
+  }
+  .red{
+    background-color: red;
+  }
+  .blue{
+    background-color: blue;
+  }
+  .lightblue{
+    background-color: lightblue
+  }
+  .green{
+    background-color: green;
+  }
+ 
+ 
+ 
+  .h25{
+    height: 25px;
+  }
+ 
+ 
+  .h100{
+    height: 100px;
+  }
+ 
+  .h300{
+    height: 300px;
+  }
+ 
+  .h400{
+    height: 400px;
+  }
+ 
+  .h200{
+    height: 500px
+  }
