@@ -1,5 +1,7 @@
 body{
-    background-color: grey
+    background-color: grey;
+    font-family: sans-serif;
+
   }
  
   .my-lime{
@@ -40,3 +42,11 @@ body{
   .h200{
     height: 500px
   }
+
+  
+
+  nav{
+    background-color:rgba(44,62,80,255) ;
+  }
+
+  
