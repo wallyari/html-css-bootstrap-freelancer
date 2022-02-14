@@ -1,5 +1,5 @@
 body{
-    background-color: grey;
+    background-color: white;
     font-family: sans-serif;
 
   }
@@ -53,8 +53,9 @@ body{
 
   .my-green{
     background-color: #1abc9c;
-
-
+  }
+  .my-blue{
+    background-color:rgba(44,62,80,255) ; 
   }
   
   .dash-star:before,
@@ -70,5 +71,12 @@ body{
 
 #my-jumbotron img{
   width: 200px;
+
+}
+
+#my-portfolio img{
+  width: 100%;
+  border-radius: 5%;
+  margin: 1rem .5rem;
 
 }
