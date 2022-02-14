@@ -135,5 +135,9 @@ body{
 .my-green-text{
   color: #1abc9c;
     
-
+  }
+  
+  footer .footer-bottom{
+    padding: 45px;
+  
   }
