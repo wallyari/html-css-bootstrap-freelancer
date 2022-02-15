@@ -4,46 +4,6 @@ body{
 
   }
  
-  .my-lime{
-    background-color: lime;
-  }
-  .my-red{
-    background-color: red;
-  }
-  .my-blue{
-    background-color: blue;
-  }
-  .my-lightblue{
-    background-color: lightblue
-  }
-  .my-green{
-    background-color: green;
-  }
- 
- 
- 
-  /* .h25{
-    height: 25px;
-  } */
- 
- 
-  .h100{
-    height: 100px;
-  }
- 
-  .h300{
-    height: 300px;
-  }
- 
-  .h400{
-    height: 400px;
-  }
- 
-  .h200{
-    height: 500px
-  }
-
-  
 
 #my-nav{
     background-color:rgba(44,62,80,255) ;
@@ -64,16 +24,8 @@ body{
     color:rgba(44,62,80,255) ; 
   }
   
-  .dash-star:before,
-  .dash-star:after {
-    content: '';
-    display: inline-block;
-    width: 15%;
-    height: 4px;
-    border-radius:2px;
-    background-color: white;
-    margin: 0 20px;
-  }
+
+
 
 #my-jumbotron img{
   width: 200px;
@@ -88,16 +40,6 @@ body{
 }
 
 
-.dash-star-blue:before,
-.dash-star-blue:after {
-    content: '';
-    display: inline-block;
-    width: 15%;
-    height: 4px;
-    border-radius:2px;
-    background-color:rgba(44,62,80,255) ;
-    margin: 0 20px;
-  }
 
   #about p{
     margin: 20px 0;
@@ -110,6 +52,7 @@ body{
     border-color: white;
     margin-bottom: 20px;
   }
+  
   #contact .row input:not(#send),
   #contact .row textarea{
     border: 0px;
@@ -137,7 +80,30 @@ body{
     
   }
   
-  footer .footer-bottom{
-    padding: 45px;
+  footer .footerbottom span{
+    padding: 50px;
   
+  }
+
+
+  .dash-star:before,
+  .dash-star:after {
+    content: '';
+    display: inline-block;
+    width: 15%;
+    height: 4px;
+    border-radius:2px;
+    background-color: white;
+    margin: 0 20px;
+  }
+
+.dash-star-blue:before,
+.dash-star-blue:after {
+    content: '';
+    display: inline-block;
+    width: 15%;
+    height: 4px;
+    border-radius:2px;
+    background-color:rgba(44,62,80,255) ;
+    margin: 0 20px;
   }
