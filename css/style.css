@@ -23,8 +23,6 @@ body{
   .my-blue-text{
     color:rgba(44,62,80,255) ; 
   }
-  
-
 
 
 #my-jumbotron img{
@@ -80,10 +78,6 @@ body{
     
   }
   
-  footer .footerbottom span{
-    padding: 50px;
-  
-  }
 
 
   .dash-star:before,
